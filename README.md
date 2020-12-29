@@ -19,3 +19,7 @@ mvn test
 
 ```
 Or go the eclipse IDE and right click on the folder and select Run as --> Mvn test or Run as --> Testng test
+
+## Question 2 ##
+
+I have created the feature file for the given requirement in the file FIRSTNAME_LASTNAME_MG.feature
